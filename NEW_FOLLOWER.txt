@@ -1,0 +1,585 @@
+2021-08-12T22:45:06.677Z engine-sessionLive [1]: SessionLive-Playhead consumer started:
+2021-08-12T22:45:06.678Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:09.678Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:12.678Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:15.678Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:18.679Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:21.680Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:24.681Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:27.682Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:30.683Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:33.684Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:36.683Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:39.684Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:42.684Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:45.684Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:48.685Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:51.684Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:54.684Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:57.685Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:46:00.684Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:46:03.685Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:46:06.684Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:46:08.742Z engine-sessionLive [1]: Setting mediaSeqCount and discSeqCount to: [8]:[0]
+2021-08-12T22:46:08.743Z engine-sessionLive [1]: PP Setting mediaSeqCount to: [7]
+2021-08-12T22:46:08.743Z engine-sessionLive [1]: Setting CurrentMediaSequenceSegments. First seg is: https://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/600/600-00008.ts
+2021-08-12T22:46:08.767Z engine-sessionLive [1]: ...Fetched a New Live Master Manifest from:
+2021-08-12T22:46:08.767Z engine-sessionLive [1]: All Live Media Manifest URIs have been collected. (5) profiles found!
+2021-08-12T22:46:09.460Z engine-sessionLive [1]: ...Loading the selected Live Media Manifest
+2021-08-12T22:46:09.461Z engine-sessionLive [1]: FOLLOWER: Cannot Generate Manifest! <7dbf2799-2e35-4d39-ac0c-3f0636c0c36e> New segments need to be collected first!...
+2021-08-12T22:46:09.461Z engine-sessionLive [1]: No manifest available yet, will try again after 1000ms
+2021-08-12T22:46:09.684Z engine-sessionLive [1]: +-+ liveBws=
+2021-08-12T22:46:09.685Z engine-sessionLive [1]: ...Attempting to load all media manifest URIs in=550172,1650064,2749539,4947980,8247438
+2021-08-12T22:46:09.685Z engine-sessionLive [1]: NEW FOLLOWER: Trying to fetch manifests for all bandwidths
+2021-08-12T22:46:09.685Z engine-sessionLive [1]: Requesting bw=(550172), Nearest Bandwidth is: 550172
+2021-08-12T22:46:09.685Z engine-sessionLive [1]: Pushed loadMedia promise for bw=550172
+2021-08-12T22:46:09.686Z engine-sessionLive [1]: Requesting bw=(1650064), Nearest Bandwidth is: 1650064
+2021-08-12T22:46:09.686Z engine-sessionLive [1]: Pushed loadMedia promise for bw=1650064
+2021-08-12T22:46:09.686Z engine-sessionLive [1]: Requesting bw=(2749539), Nearest Bandwidth is: 2749539
+2021-08-12T22:46:09.687Z engine-sessionLive [1]: Pushed loadMedia promise for bw=2749539
+2021-08-12T22:46:09.687Z engine-sessionLive [1]: Requesting bw=(4947980), Nearest Bandwidth is: 4947980
+2021-08-12T22:46:09.687Z engine-sessionLive [1]: Pushed loadMedia promise for bw=4947980
+2021-08-12T22:46:09.687Z engine-sessionLive [1]: Requesting bw=(8247438), Nearest Bandwidth is: 8247438
+2021-08-12T22:46:09.687Z engine-sessionLive [1]: Pushed loadMedia promise for bw=8247438
+2021-08-12T22:46:09.717Z engine-sessionLive [1]: [What To Create?] Creating a Completely New Media Sequence
+2021-08-12T22:46:09.717Z engine-sessionLive [1]: Time to make MEDIA-SEQUENCE number: [8]
+2021-08-12T22:46:09.717Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855858.ts"}
+2021-08-12T22:46:09.717Z engine-sessionLive [1]: [What To Create?] Odd case! Live Source MediaSeq is not up to date. Aborting.
+2021-08-12T22:46:09.717Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:09.718Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855858.ts"}
+2021-08-12T22:46:09.721Z engine-sessionLive [1]: [What To Create?] Odd case! Live Source MediaSeq is not up to date. Aborting.
+2021-08-12T22:46:09.729Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:09.733Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855858.ts"}
+2021-08-12T22:46:09.733Z engine-sessionLive [1]: Live Mseq counts=2016929,2016929,2016929,2016928,2016928
+2021-08-12T22:46:09.733Z engine-sessionLive [1]: pop() on bw=[4947980]
+2021-08-12T22:46:09.733Z engine-sessionLive [1]: pop() on bw=[8247438]
+2021-08-12T22:46:09.733Z engine-sessionLive [1]: XX [[ ALERT! ]] | Live Source Data NOT in sync! Will try again after 1500ms
+2021-08-12T22:46:10.466Z engine-sessionLive [1]: FOLLOWER: Cannot Generate Manifest! <7dbf2799-2e35-4d39-ac0c-3f0636c0c36e> New segments need to be collected first!...
+2021-08-12T22:46:10.466Z engine-sessionLive [1]: No manifest available yet, will try again after 1000ms
+2021-08-12T22:46:11.234Z engine-sessionLive [1]: NEW FOLLOWER: Trying to fetch manifests for all bandwidths
+2021-08-12T22:46:11.234Z engine-sessionLive [1]: Requesting bw=(550172), Nearest Bandwidth is: 550172
+2021-08-12T22:46:11.235Z engine-sessionLive [1]: Pushed loadMedia promise for bw=550172
+2021-08-12T22:46:11.235Z engine-sessionLive [1]: Requesting bw=(1650064), Nearest Bandwidth is: 1650064
+2021-08-12T22:46:11.235Z engine-sessionLive [1]: Pushed loadMedia promise for bw=1650064
+2021-08-12T22:46:11.235Z engine-sessionLive [1]: Requesting bw=(2749539), Nearest Bandwidth is: 2749539
+2021-08-12T22:46:11.235Z engine-sessionLive [1]: Pushed loadMedia promise for bw=2749539
+2021-08-12T22:46:11.235Z engine-sessionLive [1]: Requesting bw=(4947980), Nearest Bandwidth is: 4947980
+2021-08-12T22:46:11.235Z engine-sessionLive [1]: Pushed loadMedia promise for bw=4947980
+2021-08-12T22:46:11.235Z engine-sessionLive [1]: Requesting bw=(8247438), Nearest Bandwidth is: 8247438
+2021-08-12T22:46:11.235Z engine-sessionLive [1]: Pushed loadMedia promise for bw=8247438
+2021-08-12T22:46:11.469Z engine-sessionLive [1]: FOLLOWER: Cannot Generate Manifest! <7dbf2799-2e35-4d39-ac0c-3f0636c0c36e> New segments need to be collected first!...
+2021-08-12T22:46:11.469Z engine-sessionLive [1]: No manifest available yet, will try again after 1000ms
+2021-08-12T22:46:11.657Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:11.657Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:11.657Z engine-sessionLive [1]: [What To Create?] Odd case! Live Source MediaSeq is not up to date. Aborting.
+2021-08-12T22:46:11.657Z engine-sessionLive [1]: [What To Create?] Odd case! Live Source MediaSeq is not up to date. Aborting.
+2021-08-12T22:46:11.660Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:11.660Z engine-sessionLive [1]: Live Mseq counts=2016929,2016929,2016929,2016928,2016928
+2021-08-12T22:46:11.660Z engine-sessionLive [1]: pop() on bw=[4947980]
+2021-08-12T22:46:11.660Z engine-sessionLive [1]: pop() on bw=[8247438]
+2021-08-12T22:46:11.660Z engine-sessionLive [1]: XX [[ ALERT! ]] | Live Source Data NOT in sync! Will try again after 1500ms
+2021-08-12T22:46:12.471Z engine-sessionLive [1]: FOLLOWER: Cannot Generate Manifest! <7dbf2799-2e35-4d39-ac0c-3f0636c0c36e> New segments need to be collected first!...
+2021-08-12T22:46:12.471Z engine-sessionLive [1]: No manifest available yet, will try again after 1000ms
+2021-08-12T22:46:13.161Z engine-sessionLive [1]: NEW FOLLOWER: Trying to fetch manifests for all bandwidths
+2021-08-12T22:46:13.161Z engine-sessionLive [1]: Requesting bw=(550172), Nearest Bandwidth is: 550172
+2021-08-12T22:46:13.161Z engine-sessionLive [1]: Pushed loadMedia promise for bw=550172
+2021-08-12T22:46:13.161Z engine-sessionLive [1]: Requesting bw=(1650064), Nearest Bandwidth is: 1650064
+2021-08-12T22:46:13.162Z engine-sessionLive [1]: Pushed loadMedia promise for bw=1650064
+2021-08-12T22:46:13.162Z engine-sessionLive [1]: Requesting bw=(2749539), Nearest Bandwidth is: 2749539
+2021-08-12T22:46:13.162Z engine-sessionLive [1]: Pushed loadMedia promise for bw=2749539
+2021-08-12T22:46:13.162Z engine-sessionLive [1]: Requesting bw=(4947980), Nearest Bandwidth is: 4947980
+2021-08-12T22:46:13.162Z engine-sessionLive [1]: Pushed loadMedia promise for bw=4947980
+2021-08-12T22:46:13.162Z engine-sessionLive [1]: Requesting bw=(8247438), Nearest Bandwidth is: 8247438
+2021-08-12T22:46:13.163Z engine-sessionLive [1]: Pushed loadMedia promise for bw=8247438
+2021-08-12T22:46:13.214Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:13.214Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:13.215Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:13.215Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:13.215Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855858.ts"}
+2021-08-12T22:46:13.218Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:13.218Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855858.ts"}
+2021-08-12T22:46:13.219Z engine-sessionLive [1]: XX [[ ALERT! ]] | NEW FOLLOWER not in sync! Will try again after 1500ms
+2021-08-12T22:46:13.474Z engine-sessionLive [1]: FOLLOWER: Cannot Generate Manifest! <7dbf2799-2e35-4d39-ac0c-3f0636c0c36e> New segments need to be collected first!...
+2021-08-12T22:46:13.474Z engine-sessionLive [1]: No manifest available yet, will try again after 1000ms
+2021-08-12T22:46:14.475Z engine-sessionLive [1]: FOLLOWER: Cannot Generate Manifest! <7dbf2799-2e35-4d39-ac0c-3f0636c0c36e> New segments need to be collected first!...
+2021-08-12T22:46:14.475Z engine-sessionLive [1]: No manifest available yet, will try again after 1000ms
+2021-08-12T22:46:14.720Z engine-sessionLive [1]: NEW FOLLOWER: Trying to fetch manifests for all bandwidths
+2021-08-12T22:46:14.720Z engine-sessionLive [1]: Requesting bw=(550172), Nearest Bandwidth is: 550172
+2021-08-12T22:46:14.720Z engine-sessionLive [1]: Pushed loadMedia promise for bw=550172
+2021-08-12T22:46:14.720Z engine-sessionLive [1]: Requesting bw=(1650064), Nearest Bandwidth is: 1650064
+2021-08-12T22:46:14.720Z engine-sessionLive [1]: Pushed loadMedia promise for bw=1650064
+2021-08-12T22:46:14.720Z engine-sessionLive [1]: Requesting bw=(2749539), Nearest Bandwidth is: 2749539
+2021-08-12T22:46:14.720Z engine-sessionLive [1]: Pushed loadMedia promise for bw=2749539
+2021-08-12T22:46:14.720Z engine-sessionLive [1]: Requesting bw=(4947980), Nearest Bandwidth is: 4947980
+2021-08-12T22:46:14.721Z engine-sessionLive [1]: Pushed loadMedia promise for bw=4947980
+2021-08-12T22:46:14.721Z engine-sessionLive [1]: Requesting bw=(8247438), Nearest Bandwidth is: 8247438
+2021-08-12T22:46:14.721Z engine-sessionLive [1]: Pushed loadMedia promise for bw=8247438
+2021-08-12T22:46:14.740Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:14.740Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:14.744Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:14.744Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:14.746Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:14.747Z engine-sessionLive [1]: XX [[ ALERT! ]] | NEW FOLLOWER not in sync! Will try again after 1500ms
+2021-08-12T22:46:15.477Z engine-sessionLive [1]: FOLLOWER: Cannot Generate Manifest! <7dbf2799-2e35-4d39-ac0c-3f0636c0c36e> New segments need to be collected first!...
+2021-08-12T22:46:15.477Z engine-sessionLive [1]: No manifest available yet, will try again after 1000ms
+2021-08-12T22:46:16.249Z engine-sessionLive [1]: NEW FOLLOWER: Trying to fetch manifests for all bandwidths
+2021-08-12T22:46:16.249Z engine-sessionLive [1]: Requesting bw=(550172), Nearest Bandwidth is: 550172
+2021-08-12T22:46:16.249Z engine-sessionLive [1]: Pushed loadMedia promise for bw=550172
+2021-08-12T22:46:16.249Z engine-sessionLive [1]: Requesting bw=(1650064), Nearest Bandwidth is: 1650064
+2021-08-12T22:46:16.249Z engine-sessionLive [1]: Pushed loadMedia promise for bw=1650064
+2021-08-12T22:46:16.249Z engine-sessionLive [1]: Requesting bw=(2749539), Nearest Bandwidth is: 2749539
+2021-08-12T22:46:16.250Z engine-sessionLive [1]: Pushed loadMedia promise for bw=2749539
+2021-08-12T22:46:16.250Z engine-sessionLive [1]: Requesting bw=(4947980), Nearest Bandwidth is: 4947980
+2021-08-12T22:46:16.250Z engine-sessionLive [1]: Pushed loadMedia promise for bw=4947980
+2021-08-12T22:46:16.250Z engine-sessionLive [1]: Requesting bw=(8247438), Nearest Bandwidth is: 8247438
+2021-08-12T22:46:16.250Z engine-sessionLive [1]: Pushed loadMedia promise for bw=8247438
+2021-08-12T22:46:16.301Z engine-sessionLive [1]: [What To Create?] Creating a Completely New Media Sequence
+2021-08-12T22:46:16.301Z engine-sessionLive [1]: Time to make MEDIA-SEQUENCE number: [9]
+2021-08-12T22:46:16.301Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855864.ts"}
+2021-08-12T22:46:16.301Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:16.301Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855864.ts"}
+2021-08-12T22:46:16.302Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:16.302Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855864.ts"}
+2021-08-12T22:46:16.304Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:16.304Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855864.ts"}
+2021-08-12T22:46:16.305Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:16.305Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855864.ts"}
+2021-08-12T22:46:16.306Z engine-sessionLive [1]: XX [[ ALERT! ]] | NEW FOLLOWER not in sync! Will try again after 1500ms
+2021-08-12T22:46:16.479Z engine-sessionLive [1]: FOLLOWER: Cannot Generate Manifest! <7dbf2799-2e35-4d39-ac0c-3f0636c0c36e> New segments need to be collected first!...
+2021-08-12T22:46:16.479Z engine-sessionLive [1]: No manifest available yet, will try again after 1000ms
+2021-08-12T22:46:17.482Z engine-sessionLive [1]: FOLLOWER: Cannot Generate Manifest! <7dbf2799-2e35-4d39-ac0c-3f0636c0c36e> New segments need to be collected first!...
+2021-08-12T22:46:17.482Z engine-sessionLive [1]: No manifest available yet, will try again after 1000ms
+2021-08-12T22:46:17.805Z engine-sessionLive [1]: NEW FOLLOWER: Trying to fetch manifests for all bandwidths
+2021-08-12T22:46:17.806Z engine-sessionLive [1]: Requesting bw=(550172), Nearest Bandwidth is: 550172
+2021-08-12T22:46:17.806Z engine-sessionLive [1]: Pushed loadMedia promise for bw=550172
+2021-08-12T22:46:17.806Z engine-sessionLive [1]: Requesting bw=(1650064), Nearest Bandwidth is: 1650064
+2021-08-12T22:46:17.806Z engine-sessionLive [1]: Pushed loadMedia promise for bw=1650064
+2021-08-12T22:46:17.806Z engine-sessionLive [1]: Requesting bw=(2749539), Nearest Bandwidth is: 2749539
+2021-08-12T22:46:17.806Z engine-sessionLive [1]: Pushed loadMedia promise for bw=2749539
+2021-08-12T22:46:17.806Z engine-sessionLive [1]: Requesting bw=(4947980), Nearest Bandwidth is: 4947980
+2021-08-12T22:46:17.806Z engine-sessionLive [1]: Pushed loadMedia promise for bw=4947980
+2021-08-12T22:46:17.806Z engine-sessionLive [1]: Requesting bw=(8247438), Nearest Bandwidth is: 8247438
+2021-08-12T22:46:17.806Z engine-sessionLive [1]: Pushed loadMedia promise for bw=8247438
+2021-08-12T22:46:17.830Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:17.830Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:17.830Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:17.830Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:17.830Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:17.830Z engine-sessionLive [1]: XX [[ ALERT! ]] | NEW FOLLOWER not in sync! Will try again after 1500ms
+2021-08-12T22:46:18.484Z engine-sessionLive [1]: FOLLOWER: Cannot Generate Manifest! <7dbf2799-2e35-4d39-ac0c-3f0636c0c36e> New segments need to be collected first!...
+2021-08-12T22:46:18.484Z engine-sessionLive [1]: No manifest available yet, will try again after 1000ms
+2021-08-12T22:46:19.331Z engine-sessionLive [1]: NEW FOLLOWER: Trying to fetch manifests for all bandwidths
+2021-08-12T22:46:19.331Z engine-sessionLive [1]: Requesting bw=(550172), Nearest Bandwidth is: 550172
+2021-08-12T22:46:19.331Z engine-sessionLive [1]: Pushed loadMedia promise for bw=550172
+2021-08-12T22:46:19.331Z engine-sessionLive [1]: Requesting bw=(1650064), Nearest Bandwidth is: 1650064
+2021-08-12T22:46:19.332Z engine-sessionLive [1]: Pushed loadMedia promise for bw=1650064
+2021-08-12T22:46:19.332Z engine-sessionLive [1]: Requesting bw=(2749539), Nearest Bandwidth is: 2749539
+2021-08-12T22:46:19.332Z engine-sessionLive [1]: Pushed loadMedia promise for bw=2749539
+2021-08-12T22:46:19.332Z engine-sessionLive [1]: Requesting bw=(4947980), Nearest Bandwidth is: 4947980
+2021-08-12T22:46:19.332Z engine-sessionLive [1]: Pushed loadMedia promise for bw=4947980
+2021-08-12T22:46:19.332Z engine-sessionLive [1]: Requesting bw=(8247438), Nearest Bandwidth is: 8247438
+2021-08-12T22:46:19.332Z engine-sessionLive [1]: Pushed loadMedia promise for bw=8247438
+2021-08-12T22:46:19.377Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:19.381Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:19.381Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:19.383Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:19.383Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:19.384Z engine-sessionLive [1]: XX [[ ALERT! ]] | NEW FOLLOWER not in sync! Will try again after 1500ms
+2021-08-12T22:46:19.485Z engine-sessionLive [1]: FOLLOWER: Cannot Generate Manifest! <7dbf2799-2e35-4d39-ac0c-3f0636c0c36e> New segments need to be collected first!...
+2021-08-12T22:46:19.485Z engine-sessionLive [1]: No manifest available yet, will try again after 1000ms
+2021-08-12T22:46:19.829Z engine-sessionLive [1]: ...Loading the selected Live Media Manifest
+2021-08-12T22:46:19.829Z engine-sessionLive [1]: FOLLOWER: Cannot Generate Manifest! <7dbf2799-2e35-4d39-ac0c-3f0636c0c36e> New segments need to be collected first!...
+2021-08-12T22:46:19.829Z engine-sessionLive [1]: No manifest available yet, will try again after 1000ms
+2021-08-12T22:46:20.487Z engine-sessionLive [1]: FOLLOWER: Cannot Generate Manifest! <7dbf2799-2e35-4d39-ac0c-3f0636c0c36e> New segments need to be collected first!...
+2021-08-12T22:46:20.487Z engine-sessionLive [1]: No manifest available yet, will try again after 1000ms
+2021-08-12T22:46:20.830Z engine-sessionLive [1]: FOLLOWER: Cannot Generate Manifest! <7dbf2799-2e35-4d39-ac0c-3f0636c0c36e> New segments need to be collected first!...
+2021-08-12T22:46:20.831Z engine-sessionLive [1]: No manifest available yet, will try again after 1000ms
+2021-08-12T22:46:20.885Z engine-sessionLive [1]: NEW FOLLOWER: Trying to fetch manifests for all bandwidths
+2021-08-12T22:46:20.885Z engine-sessionLive [1]: Requesting bw=(550172), Nearest Bandwidth is: 550172
+2021-08-12T22:46:20.885Z engine-sessionLive [1]: Pushed loadMedia promise for bw=550172
+2021-08-12T22:46:20.885Z engine-sessionLive [1]: Requesting bw=(1650064), Nearest Bandwidth is: 1650064
+2021-08-12T22:46:20.886Z engine-sessionLive [1]: Pushed loadMedia promise for bw=1650064
+2021-08-12T22:46:20.886Z engine-sessionLive [1]: Requesting bw=(2749539), Nearest Bandwidth is: 2749539
+2021-08-12T22:46:20.886Z engine-sessionLive [1]: Pushed loadMedia promise for bw=2749539
+2021-08-12T22:46:20.886Z engine-sessionLive [1]: Requesting bw=(4947980), Nearest Bandwidth is: 4947980
+2021-08-12T22:46:20.886Z engine-sessionLive [1]: Pushed loadMedia promise for bw=4947980
+2021-08-12T22:46:20.886Z engine-sessionLive [1]: Requesting bw=(8247438), Nearest Bandwidth is: 8247438
+2021-08-12T22:46:20.886Z engine-sessionLive [1]: Pushed loadMedia promise for bw=8247438
+2021-08-12T22:46:20.910Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:20.910Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:20.910Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:20.910Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:20.913Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:20.913Z engine-sessionLive [1]: XX [[ ALERT! ]] | NEW FOLLOWER not in sync! Will try again after 1500ms
+2021-08-12T22:46:21.488Z engine-sessionLive [1]: FOLLOWER: Cannot Generate Manifest! <7dbf2799-2e35-4d39-ac0c-3f0636c0c36e> New segments need to be collected first!...
+2021-08-12T22:46:21.489Z engine-sessionLive [1]: No manifest available yet, will try again after 1000ms
+2021-08-12T22:46:21.831Z engine-sessionLive [1]: Started Generating the Manifest...
+2021-08-12T22:46:21.831Z engine-sessionLive [1]: Adding a Total of (7) VOD segments to Manifest
+2021-08-12T22:46:21.831Z engine-sessionLive [1]: Appending Segments from Live Source of bw=(1650064). Segment QUEUE is [ 2 ] large
+2021-08-12T22:46:21.832Z engine-sessionLive [1]: ...Manifest Generation Complete!
+2021-08-12T22:46:21.832Z engine-sessionLive [1]: FOLLOWER-> Sending requested manifest to client ["#EXTM3U\n#EXT-X-VERSION:6\n## FOLLOWER\n## Created with Eyevinn Channel Engine library (version=3.0.0-rc.2<7dbf2799-2e35-4d39-ac0c-3f0636c0c36e>)\n##    https://www.npmjs.com/package/eyevinn-channel-engine\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-TARGETDURATION:8\n#EXT-X-MEDIA-SEQUENCE:9\n#EXT-X-DISCONTINUITY-SEQUENCE:0\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/600/600-00009.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/600/600-00010.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/600/600-00011.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/600/600-00012.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/600/600-00013.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/600/600-00014.ts\n#EXT-X-DISCONTINUITY\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855858.ts\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855864.ts\n"]
+2021-08-12T22:46:22.414Z engine-sessionLive [1]: NEW FOLLOWER: Trying to fetch manifests for all bandwidths
+2021-08-12T22:46:22.415Z engine-sessionLive [1]: Requesting bw=(550172), Nearest Bandwidth is: 550172
+2021-08-12T22:46:22.415Z engine-sessionLive [1]: Pushed loadMedia promise for bw=550172
+2021-08-12T22:46:22.415Z engine-sessionLive [1]: Requesting bw=(1650064), Nearest Bandwidth is: 1650064
+2021-08-12T22:46:22.415Z engine-sessionLive [1]: Pushed loadMedia promise for bw=1650064
+2021-08-12T22:46:22.415Z engine-sessionLive [1]: Requesting bw=(2749539), Nearest Bandwidth is: 2749539
+2021-08-12T22:46:22.415Z engine-sessionLive [1]: Pushed loadMedia promise for bw=2749539
+2021-08-12T22:46:22.415Z engine-sessionLive [1]: Requesting bw=(4947980), Nearest Bandwidth is: 4947980
+2021-08-12T22:46:22.415Z engine-sessionLive [1]: Pushed loadMedia promise for bw=4947980
+2021-08-12T22:46:22.416Z engine-sessionLive [1]: Requesting bw=(8247438), Nearest Bandwidth is: 8247438
+2021-08-12T22:46:22.416Z engine-sessionLive [1]: Pushed loadMedia promise for bw=8247438
+2021-08-12T22:46:22.460Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:22.467Z engine-sessionLive [1]: [What To Create?] Creating a Completely New Media Sequence
+2021-08-12T22:46:22.467Z engine-sessionLive [1]: Time to make MEDIA-SEQUENCE number: [10]
+2021-08-12T22:46:22.467Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855870.ts"}
+2021-08-12T22:46:22.467Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:22.468Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855870.ts"}
+2021-08-12T22:46:22.472Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:22.472Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855870.ts"}
+2021-08-12T22:46:22.472Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:22.472Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855870.ts"}
+2021-08-12T22:46:22.473Z engine-sessionLive [1]: Live Mseq counts=2016931,2016930,2016931,2016931,2016931
+2021-08-12T22:46:22.473Z engine-sessionLive [1]: pop() on bw=[1650064]
+2021-08-12T22:46:22.473Z engine-sessionLive [1]: XX [[ ALERT! ]] | Live Source Data NOT in sync! Will try again after 1500ms
+2021-08-12T22:46:22.490Z engine-sessionLive [1]: FOLLOWER: Cannot Generate Manifest! <7dbf2799-2e35-4d39-ac0c-3f0636c0c36e> New segments need to be collected first!...
+2021-08-12T22:46:22.490Z engine-sessionLive [1]: No manifest available yet, will try again after 1000ms
+2021-08-12T22:46:23.493Z engine-sessionLive [1]: FOLLOWER: Cannot Generate Manifest! <7dbf2799-2e35-4d39-ac0c-3f0636c0c36e> New segments need to be collected first!...
+2021-08-12T22:46:23.493Z engine-sessionLive [1]: No manifest available yet, will try again after 1000ms
+2021-08-12T22:46:23.974Z engine-sessionLive [1]: NEW FOLLOWER: Trying to fetch manifests for all bandwidths
+2021-08-12T22:46:23.974Z engine-sessionLive [1]: Requesting bw=(550172), Nearest Bandwidth is: 550172
+2021-08-12T22:46:23.974Z engine-sessionLive [1]: Pushed loadMedia promise for bw=550172
+2021-08-12T22:46:23.974Z engine-sessionLive [1]: Requesting bw=(1650064), Nearest Bandwidth is: 1650064
+2021-08-12T22:46:23.974Z engine-sessionLive [1]: Pushed loadMedia promise for bw=1650064
+2021-08-12T22:46:23.975Z engine-sessionLive [1]: Requesting bw=(2749539), Nearest Bandwidth is: 2749539
+2021-08-12T22:46:23.975Z engine-sessionLive [1]: Pushed loadMedia promise for bw=2749539
+2021-08-12T22:46:23.975Z engine-sessionLive [1]: Requesting bw=(4947980), Nearest Bandwidth is: 4947980
+2021-08-12T22:46:23.975Z engine-sessionLive [1]: Pushed loadMedia promise for bw=4947980
+2021-08-12T22:46:23.975Z engine-sessionLive [1]: Requesting bw=(8247438), Nearest Bandwidth is: 8247438
+2021-08-12T22:46:23.975Z engine-sessionLive [1]: Pushed loadMedia promise for bw=8247438
+2021-08-12T22:46:24.001Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:24.001Z engine-sessionLive [1]: [What To Create?] Odd case! Live Source MediaSeq is not up to date. Aborting.
+2021-08-12T22:46:24.001Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:24.002Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:24.003Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:24.003Z engine-sessionLive [1]: Live Mseq counts=2016931,2016930,2016931,2016931,2016931
+2021-08-12T22:46:24.003Z engine-sessionLive [1]: pop() on bw=[1650064]
+2021-08-12T22:46:24.003Z engine-sessionLive [1]: XX [[ ALERT! ]] | Live Source Data NOT in sync! Will try again after 1500ms
+2021-08-12T22:46:24.496Z engine-sessionLive [1]: FOLLOWER: Cannot Generate Manifest! <7dbf2799-2e35-4d39-ac0c-3f0636c0c36e> New segments need to be collected first!...
+2021-08-12T22:46:24.497Z engine-sessionLive [1]: No manifest available yet, will try again after 1000ms
+2021-08-12T22:46:25.497Z engine-sessionLive [1]: FOLLOWER: Cannot Generate Manifest! <7dbf2799-2e35-4d39-ac0c-3f0636c0c36e> New segments need to be collected first!...
+2021-08-12T22:46:25.498Z engine-sessionLive [1]: No manifest available yet, will try again after 1000ms
+2021-08-12T22:46:25.503Z engine-sessionLive [1]: NEW FOLLOWER: Trying to fetch manifests for all bandwidths
+2021-08-12T22:46:25.503Z engine-sessionLive [1]: Requesting bw=(550172), Nearest Bandwidth is: 550172
+2021-08-12T22:46:25.503Z engine-sessionLive [1]: Pushed loadMedia promise for bw=550172
+2021-08-12T22:46:25.503Z engine-sessionLive [1]: Requesting bw=(1650064), Nearest Bandwidth is: 1650064
+2021-08-12T22:46:25.503Z engine-sessionLive [1]: Pushed loadMedia promise for bw=1650064
+2021-08-12T22:46:25.503Z engine-sessionLive [1]: Requesting bw=(2749539), Nearest Bandwidth is: 2749539
+2021-08-12T22:46:25.503Z engine-sessionLive [1]: Pushed loadMedia promise for bw=2749539
+2021-08-12T22:46:25.504Z engine-sessionLive [1]: Requesting bw=(4947980), Nearest Bandwidth is: 4947980
+2021-08-12T22:46:25.504Z engine-sessionLive [1]: Pushed loadMedia promise for bw=4947980
+2021-08-12T22:46:25.504Z engine-sessionLive [1]: Requesting bw=(8247438), Nearest Bandwidth is: 8247438
+2021-08-12T22:46:25.504Z engine-sessionLive [1]: Pushed loadMedia promise for bw=8247438
+2021-08-12T22:46:25.552Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:25.552Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:25.552Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:25.552Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855858.ts"}
+2021-08-12T22:46:25.552Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855864.ts"}
+2021-08-12T22:46:25.552Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855870.ts"}
+2021-08-12T22:46:25.552Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:25.559Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:25.560Z engine-sessionLive [1]: XX [[ ALERT! ]] | NEW FOLLOWER not in sync! Will try again after 1500ms
+2021-08-12T22:46:26.501Z engine-sessionLive [1]: FOLLOWER: Cannot Generate Manifest! <7dbf2799-2e35-4d39-ac0c-3f0636c0c36e> New segments need to be collected first!...
+2021-08-12T22:46:26.501Z engine-sessionLive [1]: No manifest available yet, will try again after 1000ms
+2021-08-12T22:46:26.616Z engine-sessionLive [1]: ...Loading the selected Live Media Manifest
+2021-08-12T22:46:26.616Z engine-sessionLive [1]: FOLLOWER: Cannot Generate Manifest! <7dbf2799-2e35-4d39-ac0c-3f0636c0c36e> New segments need to be collected first!...
+2021-08-12T22:46:26.616Z engine-sessionLive [1]: No manifest available yet, will try again after 1000ms
+2021-08-12T22:46:27.060Z engine-sessionLive [1]: NEW FOLLOWER: Trying to fetch manifests for all bandwidths
+2021-08-12T22:46:27.060Z engine-sessionLive [1]: Requesting bw=(550172), Nearest Bandwidth is: 550172
+2021-08-12T22:46:27.061Z engine-sessionLive [1]: Pushed loadMedia promise for bw=550172
+2021-08-12T22:46:27.061Z engine-sessionLive [1]: Requesting bw=(1650064), Nearest Bandwidth is: 1650064
+2021-08-12T22:46:27.061Z engine-sessionLive [1]: Pushed loadMedia promise for bw=1650064
+2021-08-12T22:46:27.061Z engine-sessionLive [1]: Requesting bw=(2749539), Nearest Bandwidth is: 2749539
+2021-08-12T22:46:27.061Z engine-sessionLive [1]: Pushed loadMedia promise for bw=2749539
+2021-08-12T22:46:27.061Z engine-sessionLive [1]: Requesting bw=(4947980), Nearest Bandwidth is: 4947980
+2021-08-12T22:46:27.061Z engine-sessionLive [1]: Pushed loadMedia promise for bw=4947980
+2021-08-12T22:46:27.062Z engine-sessionLive [1]: Requesting bw=(8247438), Nearest Bandwidth is: 8247438
+2021-08-12T22:46:27.062Z engine-sessionLive [1]: Pushed loadMedia promise for bw=8247438
+2021-08-12T22:46:27.081Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:27.085Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:27.085Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:27.085Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:27.086Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:27.087Z engine-sessionLive [1]: XX [[ ALERT! ]] | NEW FOLLOWER not in sync! Will try again after 1500ms
+2021-08-12T22:46:27.502Z engine-sessionLive [1]: FOLLOWER: Cannot Generate Manifest! <7dbf2799-2e35-4d39-ac0c-3f0636c0c36e> New segments need to be collected first!...
+2021-08-12T22:46:27.502Z engine-sessionLive [1]: No manifest available yet, will try again after 1000ms
+2021-08-12T22:46:27.617Z engine-sessionLive [1]: FOLLOWER: Cannot Generate Manifest! <7dbf2799-2e35-4d39-ac0c-3f0636c0c36e> New segments need to be collected first!...
+2021-08-12T22:46:27.617Z engine-sessionLive [1]: No manifest available yet, will try again after 1000ms
+2021-08-12T22:46:28.504Z engine-sessionLive [1]: Started Generating the Manifest...
+2021-08-12T22:46:28.504Z engine-sessionLive [1]: Adding a Total of (6) VOD segments to Manifest
+2021-08-12T22:46:28.504Z engine-sessionLive [1]: Appending Segments from Live Source of bw=(2749539). Segment QUEUE is [ 3 ] large
+2021-08-12T22:46:28.504Z engine-sessionLive [1]: ...Manifest Generation Complete!
+2021-08-12T22:46:28.504Z engine-sessionLive [1]: FOLLOWER-> Sending requested manifest to client ["#EXTM3U\n#EXT-X-VERSION:6\n## FOLLOWER\n## Created with Eyevinn Channel Engine library (version=3.0.0-rc.2<7dbf2799-2e35-4d39-ac0c-3f0636c0c36e>)\n##    https://www.npmjs.com/package/eyevinn-channel-engine\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-TARGETDURATION:8\n#EXT-X-MEDIA-SEQUENCE:10\n#EXT-X-DISCONTINUITY-SEQUENCE:0\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/1000/1000-00010.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/1000/1000-00011.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/1000/1000-00012.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/1000/1000-00013.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/1000/1000-00014.ts\n#EXT-X-DISCONTINUITY\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855858.ts\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855864.ts\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855870.ts\n"]
+2021-08-12T22:46:28.587Z engine-sessionLive [1]: NEW FOLLOWER: Trying to fetch manifests for all bandwidths
+2021-08-12T22:46:28.587Z engine-sessionLive [1]: Requesting bw=(550172), Nearest Bandwidth is: 550172
+2021-08-12T22:46:28.587Z engine-sessionLive [1]: Pushed loadMedia promise for bw=550172
+2021-08-12T22:46:28.587Z engine-sessionLive [1]: Requesting bw=(1650064), Nearest Bandwidth is: 1650064
+2021-08-12T22:46:28.587Z engine-sessionLive [1]: Pushed loadMedia promise for bw=1650064
+2021-08-12T22:46:28.587Z engine-sessionLive [1]: Requesting bw=(2749539), Nearest Bandwidth is: 2749539
+2021-08-12T22:46:28.588Z engine-sessionLive [1]: Pushed loadMedia promise for bw=2749539
+2021-08-12T22:46:28.588Z engine-sessionLive [1]: Requesting bw=(4947980), Nearest Bandwidth is: 4947980
+2021-08-12T22:46:28.588Z engine-sessionLive [1]: Pushed loadMedia promise for bw=4947980
+2021-08-12T22:46:28.588Z engine-sessionLive [1]: Requesting bw=(8247438), Nearest Bandwidth is: 8247438
+2021-08-12T22:46:28.589Z engine-sessionLive [1]: Pushed loadMedia promise for bw=8247438
+2021-08-12T22:46:28.617Z engine-sessionLive [1]: Started Generating the Manifest...
+2021-08-12T22:46:28.617Z engine-sessionLive [1]: Adding a Total of (6) VOD segments to Manifest
+2021-08-12T22:46:28.618Z engine-sessionLive [1]: Appending Segments from Live Source of bw=(2749539). Segment QUEUE is [ 3 ] large
+2021-08-12T22:46:28.618Z engine-sessionLive [1]: ...Manifest Generation Complete!
+2021-08-12T22:46:28.618Z engine-sessionLive [1]: FOLLOWER-> Sending requested manifest to client ["#EXTM3U\n#EXT-X-VERSION:6\n## FOLLOWER\n## Created with Eyevinn Channel Engine library (version=3.0.0-rc.2<7dbf2799-2e35-4d39-ac0c-3f0636c0c36e>)\n##    https://www.npmjs.com/package/eyevinn-channel-engine\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-TARGETDURATION:8\n#EXT-X-MEDIA-SEQUENCE:10\n#EXT-X-DISCONTINUITY-SEQUENCE:0\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/1000/1000-00010.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/1000/1000-00011.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/1000/1000-00012.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/1000/1000-00013.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/1000/1000-00014.ts\n#EXT-X-DISCONTINUITY\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855858.ts\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855864.ts\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855870.ts\n"]
+2021-08-12T22:46:28.650Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:28.652Z engine-sessionLive [1]: [What To Create?] Creating a Completely New Media Sequence
+2021-08-12T22:46:28.652Z engine-sessionLive [1]: Time to make MEDIA-SEQUENCE number: [11]
+2021-08-12T22:46:28.652Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855876.ts"}
+2021-08-12T22:46:28.654Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:28.654Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855876.ts"}
+2021-08-12T22:46:28.657Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:28.657Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855876.ts"}
+2021-08-12T22:46:28.660Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:28.660Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855876.ts"}
+2021-08-12T22:46:28.660Z engine-sessionLive [1]: Live Mseq counts=2016932,2016931,2016932,2016932,2016932
+2021-08-12T22:46:28.660Z engine-sessionLive [1]: pop() on bw=[1650064]
+2021-08-12T22:46:28.660Z engine-sessionLive [1]: XX [[ ALERT! ]] | Live Source Data NOT in sync! Will try again after 1500ms
+2021-08-12T22:46:30.162Z engine-sessionLive [1]: NEW FOLLOWER: Trying to fetch manifests for all bandwidths
+2021-08-12T22:46:30.162Z engine-sessionLive [1]: Requesting bw=(550172), Nearest Bandwidth is: 550172
+2021-08-12T22:46:30.162Z engine-sessionLive [1]: Pushed loadMedia promise for bw=550172
+2021-08-12T22:46:30.162Z engine-sessionLive [1]: Requesting bw=(1650064), Nearest Bandwidth is: 1650064
+2021-08-12T22:46:30.162Z engine-sessionLive [1]: Pushed loadMedia promise for bw=1650064
+2021-08-12T22:46:30.162Z engine-sessionLive [1]: Requesting bw=(2749539), Nearest Bandwidth is: 2749539
+2021-08-12T22:46:30.162Z engine-sessionLive [1]: Pushed loadMedia promise for bw=2749539
+2021-08-12T22:46:30.162Z engine-sessionLive [1]: Requesting bw=(4947980), Nearest Bandwidth is: 4947980
+2021-08-12T22:46:30.162Z engine-sessionLive [1]: Pushed loadMedia promise for bw=4947980
+2021-08-12T22:46:30.162Z engine-sessionLive [1]: Requesting bw=(8247438), Nearest Bandwidth is: 8247438
+2021-08-12T22:46:30.163Z engine-sessionLive [1]: Pushed loadMedia promise for bw=8247438
+2021-08-12T22:46:30.182Z engine-sessionLive [1]: [What To Create?] Odd case! Live Source MediaSeq is not up to date. Aborting.
+2021-08-12T22:46:30.182Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:30.186Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:30.186Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:30.186Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:30.186Z engine-sessionLive [1]: Live Mseq counts=2016932,2016931,2016932,2016932,2016932
+2021-08-12T22:46:30.186Z engine-sessionLive [1]: pop() on bw=[1650064]
+2021-08-12T22:46:30.186Z engine-sessionLive [1]: XX [[ ALERT! ]] | Live Source Data NOT in sync! Will try again after 1500ms
+2021-08-12T22:46:31.688Z engine-sessionLive [1]: NEW FOLLOWER: Trying to fetch manifests for all bandwidths
+2021-08-12T22:46:31.688Z engine-sessionLive [1]: Requesting bw=(550172), Nearest Bandwidth is: 550172
+2021-08-12T22:46:31.688Z engine-sessionLive [1]: Pushed loadMedia promise for bw=550172
+2021-08-12T22:46:31.688Z engine-sessionLive [1]: Requesting bw=(1650064), Nearest Bandwidth is: 1650064
+2021-08-12T22:46:31.688Z engine-sessionLive [1]: Pushed loadMedia promise for bw=1650064
+2021-08-12T22:46:31.688Z engine-sessionLive [1]: Requesting bw=(2749539), Nearest Bandwidth is: 2749539
+2021-08-12T22:46:31.688Z engine-sessionLive [1]: Pushed loadMedia promise for bw=2749539
+2021-08-12T22:46:31.688Z engine-sessionLive [1]: Requesting bw=(4947980), Nearest Bandwidth is: 4947980
+2021-08-12T22:46:31.688Z engine-sessionLive [1]: Pushed loadMedia promise for bw=4947980
+2021-08-12T22:46:31.688Z engine-sessionLive [1]: Requesting bw=(8247438), Nearest Bandwidth is: 8247438
+2021-08-12T22:46:31.689Z engine-sessionLive [1]: Pushed loadMedia promise for bw=8247438
+2021-08-12T22:46:31.732Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:31.737Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:31.737Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855864.ts"}
+2021-08-12T22:46:31.737Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855870.ts"}
+2021-08-12T22:46:31.737Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855876.ts"}
+2021-08-12T22:46:31.741Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:31.741Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:31.744Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:31.745Z engine-sessionLive [1]: XX [[ ALERT! ]] | NEW FOLLOWER not in sync! Will try again after 1500ms
+2021-08-12T22:46:33.244Z engine-sessionLive [1]: NEW FOLLOWER: Trying to fetch manifests for all bandwidths
+2021-08-12T22:46:33.244Z engine-sessionLive [1]: Requesting bw=(550172), Nearest Bandwidth is: 550172
+2021-08-12T22:46:33.245Z engine-sessionLive [1]: Pushed loadMedia promise for bw=550172
+2021-08-12T22:46:33.245Z engine-sessionLive [1]: Requesting bw=(1650064), Nearest Bandwidth is: 1650064
+2021-08-12T22:46:33.245Z engine-sessionLive [1]: Pushed loadMedia promise for bw=1650064
+2021-08-12T22:46:33.245Z engine-sessionLive [1]: Requesting bw=(2749539), Nearest Bandwidth is: 2749539
+2021-08-12T22:46:33.245Z engine-sessionLive [1]: Pushed loadMedia promise for bw=2749539
+2021-08-12T22:46:33.245Z engine-sessionLive [1]: Requesting bw=(4947980), Nearest Bandwidth is: 4947980
+2021-08-12T22:46:33.245Z engine-sessionLive [1]: Pushed loadMedia promise for bw=4947980
+2021-08-12T22:46:33.245Z engine-sessionLive [1]: Requesting bw=(8247438), Nearest Bandwidth is: 8247438
+2021-08-12T22:46:33.245Z engine-sessionLive [1]: Pushed loadMedia promise for bw=8247438
+2021-08-12T22:46:33.266Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:33.266Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:33.271Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:33.271Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:33.271Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:33.272Z engine-sessionLive [1]: XX [[ ALERT! ]] | NEW FOLLOWER not in sync! Will try again after 1500ms
+2021-08-12T22:46:34.772Z engine-sessionLive [1]: NEW FOLLOWER: Trying to fetch manifests for all bandwidths
+2021-08-12T22:46:34.772Z engine-sessionLive [1]: Requesting bw=(550172), Nearest Bandwidth is: 550172
+2021-08-12T22:46:34.772Z engine-sessionLive [1]: Pushed loadMedia promise for bw=550172
+2021-08-12T22:46:34.772Z engine-sessionLive [1]: Requesting bw=(1650064), Nearest Bandwidth is: 1650064
+2021-08-12T22:46:34.772Z engine-sessionLive [1]: Pushed loadMedia promise for bw=1650064
+2021-08-12T22:46:34.772Z engine-sessionLive [1]: Requesting bw=(2749539), Nearest Bandwidth is: 2749539
+2021-08-12T22:46:34.772Z engine-sessionLive [1]: Pushed loadMedia promise for bw=2749539
+2021-08-12T22:46:34.772Z engine-sessionLive [1]: Requesting bw=(4947980), Nearest Bandwidth is: 4947980
+2021-08-12T22:46:34.772Z engine-sessionLive [1]: Pushed loadMedia promise for bw=4947980
+2021-08-12T22:46:34.772Z engine-sessionLive [1]: Requesting bw=(8247438), Nearest Bandwidth is: 8247438
+2021-08-12T22:46:34.772Z engine-sessionLive [1]: Pushed loadMedia promise for bw=8247438
+2021-08-12T22:46:34.869Z engine-sessionLive [1]: [What To Create?] Creating a Completely New Media Sequence
+2021-08-12T22:46:34.869Z engine-sessionLive [1]: Time to make MEDIA-SEQUENCE number: [12]
+2021-08-12T22:46:34.869Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855882.ts"}
+2021-08-12T22:46:34.869Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:34.869Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855882.ts"}
+2021-08-12T22:46:34.869Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:34.869Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855882.ts"}
+2021-08-12T22:46:34.869Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:34.869Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855882.ts"}
+2021-08-12T22:46:34.869Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:34.869Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855882.ts"}
+2021-08-12T22:46:34.870Z engine-sessionLive [1]: XX [[ ALERT! ]] | NEW FOLLOWER not in sync! Will try again after 1500ms
+2021-08-12T22:46:35.738Z engine-sessionLive [1]: ...Loading the selected Live Media Manifest
+2021-08-12T22:46:35.739Z engine-sessionLive [1]: FOLLOWER: Cannot Generate Manifest! <7dbf2799-2e35-4d39-ac0c-3f0636c0c36e> New segments need to be collected first!...
+2021-08-12T22:46:35.739Z engine-sessionLive [1]: No manifest available yet, will try again after 1000ms
+2021-08-12T22:46:36.371Z engine-sessionLive [1]: NEW FOLLOWER: Trying to fetch manifests for all bandwidths
+2021-08-12T22:46:36.371Z engine-sessionLive [1]: Requesting bw=(550172), Nearest Bandwidth is: 550172
+2021-08-12T22:46:36.371Z engine-sessionLive [1]: Pushed loadMedia promise for bw=550172
+2021-08-12T22:46:36.371Z engine-sessionLive [1]: Requesting bw=(1650064), Nearest Bandwidth is: 1650064
+2021-08-12T22:46:36.372Z engine-sessionLive [1]: Pushed loadMedia promise for bw=1650064
+2021-08-12T22:46:36.372Z engine-sessionLive [1]: Requesting bw=(2749539), Nearest Bandwidth is: 2749539
+2021-08-12T22:46:36.372Z engine-sessionLive [1]: Pushed loadMedia promise for bw=2749539
+2021-08-12T22:46:36.372Z engine-sessionLive [1]: Requesting bw=(4947980), Nearest Bandwidth is: 4947980
+2021-08-12T22:46:36.372Z engine-sessionLive [1]: Pushed loadMedia promise for bw=4947980
+2021-08-12T22:46:36.372Z engine-sessionLive [1]: Requesting bw=(8247438), Nearest Bandwidth is: 8247438
+2021-08-12T22:46:36.372Z engine-sessionLive [1]: Pushed loadMedia promise for bw=8247438
+2021-08-12T22:46:36.395Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:36.395Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:36.395Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:36.395Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:36.395Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:36.395Z engine-sessionLive [1]: XX [[ ALERT! ]] | NEW FOLLOWER not in sync! Will try again after 1500ms
+2021-08-12T22:46:36.740Z engine-sessionLive [1]: FOLLOWER: Cannot Generate Manifest! <7dbf2799-2e35-4d39-ac0c-3f0636c0c36e> New segments need to be collected first!...
+2021-08-12T22:46:36.740Z engine-sessionLive [1]: No manifest available yet, will try again after 1000ms
+2021-08-12T22:46:37.743Z engine-sessionLive [1]: FOLLOWER: Cannot Generate Manifest! <7dbf2799-2e35-4d39-ac0c-3f0636c0c36e> New segments need to be collected first!...
+2021-08-12T22:46:37.743Z engine-sessionLive [1]: No manifest available yet, will try again after 1000ms
+2021-08-12T22:46:37.896Z engine-sessionLive [1]: NEW FOLLOWER: Trying to fetch manifests for all bandwidths
+2021-08-12T22:46:37.896Z engine-sessionLive [1]: Requesting bw=(550172), Nearest Bandwidth is: 550172
+2021-08-12T22:46:37.897Z engine-sessionLive [1]: Pushed loadMedia promise for bw=550172
+2021-08-12T22:46:37.897Z engine-sessionLive [1]: Requesting bw=(1650064), Nearest Bandwidth is: 1650064
+2021-08-12T22:46:37.897Z engine-sessionLive [1]: Pushed loadMedia promise for bw=1650064
+2021-08-12T22:46:37.897Z engine-sessionLive [1]: Requesting bw=(2749539), Nearest Bandwidth is: 2749539
+2021-08-12T22:46:37.897Z engine-sessionLive [1]: Pushed loadMedia promise for bw=2749539
+2021-08-12T22:46:37.897Z engine-sessionLive [1]: Requesting bw=(4947980), Nearest Bandwidth is: 4947980
+2021-08-12T22:46:37.897Z engine-sessionLive [1]: Pushed loadMedia promise for bw=4947980
+2021-08-12T22:46:37.897Z engine-sessionLive [1]: Requesting bw=(8247438), Nearest Bandwidth is: 8247438
+2021-08-12T22:46:37.897Z engine-sessionLive [1]: Pushed loadMedia promise for bw=8247438
+2021-08-12T22:46:37.940Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:37.940Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:37.945Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:37.945Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:37.951Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:37.951Z engine-sessionLive [1]: XX [[ ALERT! ]] | NEW FOLLOWER not in sync! Will try again after 1500ms
+2021-08-12T22:46:38.743Z engine-sessionLive [1]: FOLLOWER: Cannot Generate Manifest! <7dbf2799-2e35-4d39-ac0c-3f0636c0c36e> New segments need to be collected first!...
+2021-08-12T22:46:38.743Z engine-sessionLive [1]: No manifest available yet, will try again after 1000ms
+2021-08-12T22:46:39.452Z engine-sessionLive [1]: NEW FOLLOWER: Trying to fetch manifests for all bandwidths
+2021-08-12T22:46:39.452Z engine-sessionLive [1]: Requesting bw=(550172), Nearest Bandwidth is: 550172
+2021-08-12T22:46:39.453Z engine-sessionLive [1]: Pushed loadMedia promise for bw=550172
+2021-08-12T22:46:39.453Z engine-sessionLive [1]: Requesting bw=(1650064), Nearest Bandwidth is: 1650064
+2021-08-12T22:46:39.453Z engine-sessionLive [1]: Pushed loadMedia promise for bw=1650064
+2021-08-12T22:46:39.453Z engine-sessionLive [1]: Requesting bw=(2749539), Nearest Bandwidth is: 2749539
+2021-08-12T22:46:39.454Z engine-sessionLive [1]: Pushed loadMedia promise for bw=2749539
+2021-08-12T22:46:39.454Z engine-sessionLive [1]: Requesting bw=(4947980), Nearest Bandwidth is: 4947980
+2021-08-12T22:46:39.454Z engine-sessionLive [1]: Pushed loadMedia promise for bw=4947980
+2021-08-12T22:46:39.454Z engine-sessionLive [1]: Requesting bw=(8247438), Nearest Bandwidth is: 8247438
+2021-08-12T22:46:39.454Z engine-sessionLive [1]: Pushed loadMedia promise for bw=8247438
+2021-08-12T22:46:39.476Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:39.476Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:39.480Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:39.480Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:39.481Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:39.481Z engine-sessionLive [1]: XX [[ ALERT! ]] | NEW FOLLOWER not in sync! Will try again after 1500ms
+2021-08-12T22:46:39.745Z engine-sessionLive [1]: Started Generating the Manifest...
+2021-08-12T22:46:39.745Z engine-sessionLive [1]: Adding a Total of (4) VOD segments to Manifest
+2021-08-12T22:46:39.745Z engine-sessionLive [1]: Appending Segments from Live Source of bw=(1650064). Segment QUEUE is [ 5 ] large
+2021-08-12T22:46:39.745Z engine-sessionLive [1]: ...Manifest Generation Complete!
+2021-08-12T22:46:39.745Z engine-sessionLive [1]: FOLLOWER-> Sending requested manifest to client ["#EXTM3U\n#EXT-X-VERSION:6\n## FOLLOWER\n## Created with Eyevinn Channel Engine library (version=3.0.0-rc.2<7dbf2799-2e35-4d39-ac0c-3f0636c0c36e>)\n##    https://www.npmjs.com/package/eyevinn-channel-engine\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-TARGETDURATION:8\n#EXT-X-MEDIA-SEQUENCE:12\n#EXT-X-DISCONTINUITY-SEQUENCE:0\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/600/600-00012.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/600/600-00013.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/600/600-00014.ts\n#EXT-X-DISCONTINUITY\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855858.ts\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855864.ts\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855870.ts\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855876.ts\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855882.ts\n"]
+2021-08-12T22:46:40.323Z engine-sessionLive [1]: ...Loading the selected Live Media Manifest
+2021-08-12T22:46:40.323Z engine-sessionLive [1]: Started Generating the Manifest...
+2021-08-12T22:46:40.323Z engine-sessionLive [1]: Adding a Total of (4) VOD segments to Manifest
+2021-08-12T22:46:40.323Z engine-sessionLive [1]: Appending Segments from Live Source of bw=(2749539). Segment QUEUE is [ 5 ] large
+2021-08-12T22:46:40.323Z engine-sessionLive [1]: ...Manifest Generation Complete!
+2021-08-12T22:46:40.323Z engine-sessionLive [1]: FOLLOWER-> Sending requested manifest to client ["#EXTM3U\n#EXT-X-VERSION:6\n## FOLLOWER\n## Created with Eyevinn Channel Engine library (version=3.0.0-rc.2<7dbf2799-2e35-4d39-ac0c-3f0636c0c36e>)\n##    https://www.npmjs.com/package/eyevinn-channel-engine\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-TARGETDURATION:8\n#EXT-X-MEDIA-SEQUENCE:12\n#EXT-X-DISCONTINUITY-SEQUENCE:0\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/1000/1000-00012.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/1000/1000-00013.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/1000/1000-00014.ts\n#EXT-X-DISCONTINUITY\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855858.ts\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855864.ts\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855870.ts\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855876.ts\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855882.ts\n"]
+2021-08-12T22:46:40.981Z engine-sessionLive [1]: NEW FOLLOWER: Trying to fetch manifests for all bandwidths
+2021-08-12T22:46:40.981Z engine-sessionLive [1]: Requesting bw=(550172), Nearest Bandwidth is: 550172
+2021-08-12T22:46:40.982Z engine-sessionLive [1]: Pushed loadMedia promise for bw=550172
+2021-08-12T22:46:40.982Z engine-sessionLive [1]: Requesting bw=(1650064), Nearest Bandwidth is: 1650064
+2021-08-12T22:46:40.982Z engine-sessionLive [1]: Pushed loadMedia promise for bw=1650064
+2021-08-12T22:46:40.982Z engine-sessionLive [1]: Requesting bw=(2749539), Nearest Bandwidth is: 2749539
+2021-08-12T22:46:40.982Z engine-sessionLive [1]: Pushed loadMedia promise for bw=2749539
+2021-08-12T22:46:40.982Z engine-sessionLive [1]: Requesting bw=(4947980), Nearest Bandwidth is: 4947980
+2021-08-12T22:46:40.982Z engine-sessionLive [1]: Pushed loadMedia promise for bw=4947980
+2021-08-12T22:46:40.982Z engine-sessionLive [1]: Requesting bw=(8247438), Nearest Bandwidth is: 8247438
+2021-08-12T22:46:40.982Z engine-sessionLive [1]: Pushed loadMedia promise for bw=8247438
+2021-08-12T22:46:41.025Z engine-sessionLive [1]: [What To Create?] Creating a Completely New Media Sequence
+2021-08-12T22:46:41.025Z engine-sessionLive [1]: Time to make MEDIA-SEQUENCE number: [13]
+2021-08-12T22:46:41.025Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855888.ts"}
+2021-08-12T22:46:41.029Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:41.029Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855888.ts"}
+2021-08-12T22:46:41.032Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:41.032Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855888.ts"}
+2021-08-12T22:46:41.034Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:41.034Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855888.ts"}
+2021-08-12T22:46:41.036Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:41.036Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855888.ts"}
+2021-08-12T22:46:41.036Z engine-sessionLive [1]: XX [[ ALERT! ]] | NEW FOLLOWER not in sync! Will try again after 1500ms
+2021-08-12T22:46:42.538Z engine-sessionLive [1]: NEW FOLLOWER: Trying to fetch manifests for all bandwidths
+2021-08-12T22:46:42.538Z engine-sessionLive [1]: Requesting bw=(550172), Nearest Bandwidth is: 550172
+2021-08-12T22:46:42.538Z engine-sessionLive [1]: Pushed loadMedia promise for bw=550172
+2021-08-12T22:46:42.538Z engine-sessionLive [1]: Requesting bw=(1650064), Nearest Bandwidth is: 1650064
+2021-08-12T22:46:42.538Z engine-sessionLive [1]: Pushed loadMedia promise for bw=1650064
+2021-08-12T22:46:42.538Z engine-sessionLive [1]: Requesting bw=(2749539), Nearest Bandwidth is: 2749539
+2021-08-12T22:46:42.538Z engine-sessionLive [1]: Pushed loadMedia promise for bw=2749539
+2021-08-12T22:46:42.538Z engine-sessionLive [1]: Requesting bw=(4947980), Nearest Bandwidth is: 4947980
+2021-08-12T22:46:42.538Z engine-sessionLive [1]: Pushed loadMedia promise for bw=4947980
+2021-08-12T22:46:42.538Z engine-sessionLive [1]: Requesting bw=(8247438), Nearest Bandwidth is: 8247438
+2021-08-12T22:46:42.538Z engine-sessionLive [1]: Pushed loadMedia promise for bw=8247438
+2021-08-12T22:46:42.561Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:42.561Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:42.561Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:42.562Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:42.563Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:42.564Z engine-sessionLive [1]: XX [[ ALERT! ]] | NEW FOLLOWER not in sync! Will try again after 1500ms
+2021-08-12T22:46:44.065Z engine-sessionLive [1]: NEW FOLLOWER: Trying to fetch manifests for all bandwidths
+2021-08-12T22:46:44.065Z engine-sessionLive [1]: Requesting bw=(550172), Nearest Bandwidth is: 550172
+2021-08-12T22:46:44.066Z engine-sessionLive [1]: Pushed loadMedia promise for bw=550172
+2021-08-12T22:46:44.066Z engine-sessionLive [1]: Requesting bw=(1650064), Nearest Bandwidth is: 1650064
+2021-08-12T22:46:44.066Z engine-sessionLive [1]: Pushed loadMedia promise for bw=1650064
+2021-08-12T22:46:44.066Z engine-sessionLive [1]: Requesting bw=(2749539), Nearest Bandwidth is: 2749539
+2021-08-12T22:46:44.066Z engine-sessionLive [1]: Pushed loadMedia promise for bw=2749539
+2021-08-12T22:46:44.066Z engine-sessionLive [1]: Requesting bw=(4947980), Nearest Bandwidth is: 4947980
+2021-08-12T22:46:44.066Z engine-sessionLive [1]: Pushed loadMedia promise for bw=4947980
+2021-08-12T22:46:44.066Z engine-sessionLive [1]: Requesting bw=(8247438), Nearest Bandwidth is: 8247438
+2021-08-12T22:46:44.067Z engine-sessionLive [1]: Pushed loadMedia promise for bw=8247438
+2021-08-12T22:46:44.110Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:44.112Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:44.112Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:44.114Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:44.114Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:44.114Z engine-sessionLive [1]: XX [[ ALERT! ]] | NEW FOLLOWER not in sync! Will try again after 1500ms
+2021-08-12T22:46:45.615Z engine-sessionLive [1]: NEW FOLLOWER: Trying to fetch manifests for all bandwidths
+2021-08-12T22:46:45.615Z engine-sessionLive [1]: Requesting bw=(550172), Nearest Bandwidth is: 550172
+2021-08-12T22:46:45.615Z engine-sessionLive [1]: Pushed loadMedia promise for bw=550172
+2021-08-12T22:46:45.616Z engine-sessionLive [1]: Requesting bw=(1650064), Nearest Bandwidth is: 1650064
+2021-08-12T22:46:45.616Z engine-sessionLive [1]: Pushed loadMedia promise for bw=1650064
+2021-08-12T22:46:45.616Z engine-sessionLive [1]: Requesting bw=(2749539), Nearest Bandwidth is: 2749539
+2021-08-12T22:46:45.616Z engine-sessionLive [1]: Pushed loadMedia promise for bw=2749539
+2021-08-12T22:46:45.616Z engine-sessionLive [1]: Requesting bw=(4947980), Nearest Bandwidth is: 4947980
+2021-08-12T22:46:45.616Z engine-sessionLive [1]: Pushed loadMedia promise for bw=4947980
+2021-08-12T22:46:45.616Z engine-sessionLive [1]: Requesting bw=(8247438), Nearest Bandwidth is: 8247438
+2021-08-12T22:46:45.616Z engine-sessionLive [1]: Pushed loadMedia promise for bw=8247438
+2021-08-12T22:46:45.641Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:45.642Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:45.642Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:45.642Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:45.644Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:45.644Z engine-sessionLive [1]: My 'liveSegQueue' looks like this-> 5_bws
+2021-08-12T22:46:45.644Z engine-sessionLive [1]: And each bw has->6,6,6,6,6_segs 
+2021-08-12T22:46:45.644Z engine-sessionLive [1]: NEW FOLLOWER: I am using segs from Mseq=2016934
+2021-08-12T22:46:45.644Z engine-sessionLive [1]: Got all needed segments from all live-source bandwidths. We are now able to build a Live Manifest
+2021-08-12T22:46:45.644Z engine-sessionLive [1]: SessionLive-Playhead going to ping again after 6000ms
+2021-08-12T22:46:46.330Z engine-sessionLive [1]: ...Loading the selected Live Media Manifest
+2021-08-12T22:46:46.331Z engine-sessionLive [1]: Started Generating the Manifest...
+2021-08-12T22:46:46.331Z engine-sessionLive [1]: Adding a Total of (3) VOD segments to Manifest
+2021-08-12T22:46:46.331Z engine-sessionLive [1]: Appending Segments from Live Source of bw=(1650064). Segment QUEUE is [ 6 ] large
+2021-08-12T22:46:46.331Z engine-sessionLive [1]: ...Manifest Generation Complete!
+2021-08-12T22:46:46.331Z engine-sessionLive [1]: FOLLOWER-> Sending requested manifest to client ["#EXTM3U\n#EXT-X-VERSION:6\n## FOLLOWER\n## Created with Eyevinn Channel Engine library (version=3.0.0-rc.2<7dbf2799-2e35-4d39-ac0c-3f0636c0c36e>)\n##    https://www.npmjs.com/package/eyevinn-channel-engine\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-TARGETDURATION:8\n#EXT-X-MEDIA-SEQUENCE:13\n#EXT-X-DISCONTINUITY-SEQUENCE:0\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/600/600-00013.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/600/600-00014.ts\n#EXT-X-DISCONTINUITY\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855858.ts\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855864.ts\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855870.ts\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855876.ts\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855882.ts\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855888.ts\n"]
