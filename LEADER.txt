@@ -1,0 +1,274 @@
+2021-08-12T22:45:06.590Z engine-sessionLive [1]: SessionLive-Playhead consumer started:
+2021-08-12T22:45:06.591Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:09.591Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:12.592Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:15.593Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:18.593Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:21.593Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:24.594Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:27.593Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:30.593Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:33.594Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:36.595Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:39.596Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:42.597Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:45.597Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:48.598Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:51.597Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:54.598Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:45:57.599Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:46:00.599Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:46:03.599Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:46:06.599Z engine-sessionLive [1]: SessionLive-Playhead running, but has no content to work with. Will try again after 3000ms
+2021-08-12T22:46:08.692Z engine-sessionLive [1]: Setting mediaSeqCount and discSeqCount to: [8]:[0]
+2021-08-12T22:46:08.693Z engine-sessionLive [1]: Setting CurrentMediaSequenceSegments. First seg is: https://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/600/600-00008.ts
+2021-08-12T22:46:08.717Z engine-sessionLive [1]: ...Fetched a New Live Master Manifest from:
+2021-08-12T22:46:08.717Z engine-sessionLive [1]: All Live Media Manifest URIs have been collected. (5) profiles found!
+2021-08-12T22:46:09.600Z engine-sessionLive [1]: +-+ liveBws=
+2021-08-12T22:46:09.600Z engine-sessionLive [1]: ...Attempting to load all media manifest URIs in=550172,1650064,2749539,4947980,8247438
+2021-08-12T22:46:09.600Z engine-sessionLive [1]: LEADER: Trying to fetch manifests for all bandwidths
+2021-08-12T22:46:09.600Z engine-sessionLive [1]: Requesting bw=(550172), Nearest Bandwidth is: 550172
+2021-08-12T22:46:09.601Z engine-sessionLive [1]: Pushed loadMedia promise for bw=550172
+2021-08-12T22:46:09.601Z engine-sessionLive [1]: Requesting bw=(1650064), Nearest Bandwidth is: 1650064
+2021-08-12T22:46:09.601Z engine-sessionLive [1]: Pushed loadMedia promise for bw=1650064
+2021-08-12T22:46:09.601Z engine-sessionLive [1]: Requesting bw=(2749539), Nearest Bandwidth is: 2749539
+2021-08-12T22:46:09.601Z engine-sessionLive [1]: Pushed loadMedia promise for bw=2749539
+2021-08-12T22:46:09.601Z engine-sessionLive [1]: Requesting bw=(4947980), Nearest Bandwidth is: 4947980
+2021-08-12T22:46:09.602Z engine-sessionLive [1]: Pushed loadMedia promise for bw=4947980
+2021-08-12T22:46:09.602Z engine-sessionLive [1]: Requesting bw=(8247438), Nearest Bandwidth is: 8247438
+2021-08-12T22:46:09.602Z engine-sessionLive [1]: Pushed loadMedia promise for bw=8247438
+2021-08-12T22:46:09.665Z engine-sessionLive [1]: [What To Create?] Creating a Completely New Media Sequence
+2021-08-12T22:46:09.665Z engine-sessionLive [1]: Time to make MEDIA-SEQUENCE number: [8]
+2021-08-12T22:46:09.665Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855852.ts"}
+2021-08-12T22:46:09.666Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:09.667Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855852.ts"}
+2021-08-12T22:46:09.668Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:09.668Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855852.ts"}
+2021-08-12T22:46:09.669Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:09.669Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855852.ts"}
+2021-08-12T22:46:09.672Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:09.675Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855852.ts"}
+2021-08-12T22:46:09.676Z engine-sessionLive [1]: My 'liveSegQueue' looks like this-> 5_bws
+2021-08-12T22:46:09.676Z engine-sessionLive [1]: And each bw has->1,1,1,1,1_segs 
+2021-08-12T22:46:09.676Z engine-sessionLive [1]: LEADER: Uploading these to store, liveSegQueue->{"550172":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855852.ts"}],"1650064":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855852.ts"}],"2749539":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855852.ts"}],"4947980":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855852.ts"}],"8247438":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855852.ts"}]}
+2021-08-12T22:46:09.676Z engine-sessionLive [1]: LEADER: Adding data to store!
+2021-08-12T22:46:10.680Z engine-sessionLive [1]: LEADER: I am adding 'firstLiveSourceMseq'=2016928 & 'firstMediaSeqCount'=8 to Store for respawners
+2021-08-12T22:46:10.681Z engine-sessionLive [1]: LEADER: I am using segs from Mseq=2016928
+2021-08-12T22:46:10.681Z engine-sessionLive [1]: Got all needed segments from all live-source bandwidths. We are now able to build a Live Manifest
+2021-08-12T22:46:10.681Z engine-sessionLive [1]: SessionLive-Playhead going to ping again after 4919ms
+2021-08-12T22:46:12.499Z engine-sessionLive [1]: ...Loading the selected Live Media Manifest
+2021-08-12T22:46:12.499Z engine-sessionLive [1]: Started Generating the Manifest...
+2021-08-12T22:46:12.500Z engine-sessionLive [1]: Adding a Total of (8) VOD segments to Manifest
+2021-08-12T22:46:12.500Z engine-sessionLive [1]: Appending Segments from Live Source of bw=(1650064). Segment QUEUE is [ 1 ] large
+2021-08-12T22:46:12.500Z engine-sessionLive [1]: ...Manifest Generation Complete!
+2021-08-12T22:46:12.501Z engine-sessionLive [1]: LEADER-> Sending requested manifest to client ["#EXTM3U\n#EXT-X-VERSION:6\n## LEADER\n## Created with Eyevinn Channel Engine library (version=3.0.0-rc.2<cb6d9a07-cce6-4e83-abe1-75693e2d5076>)\n##    https://www.npmjs.com/package/eyevinn-channel-engine\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-TARGETDURATION:8\n#EXT-X-MEDIA-SEQUENCE:8\n#EXT-X-DISCONTINUITY-SEQUENCE:0\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/600/600-00008.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/600/600-00009.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/600/600-00010.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/600/600-00011.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/600/600-00012.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/600/600-00013.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/600/600-00014.ts\n#EXT-X-DISCONTINUITY\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855852.ts\n"]
+2021-08-12T22:46:15.600Z engine-sessionLive [1]: +-+ liveBws=550172,1650064,2749539,4947980,8247438
+2021-08-12T22:46:15.600Z engine-sessionLive [1]: ...Attempting to load all media manifest URIs in=550172,1650064,2749539,4947980,8247438
+2021-08-12T22:46:15.600Z engine-sessionLive [1]: LEADER: Trying to fetch manifests for all bandwidths
+2021-08-12T22:46:15.601Z engine-sessionLive [1]: Requesting bw=(550172), Nearest Bandwidth is: 550172
+2021-08-12T22:46:15.601Z engine-sessionLive [1]: Pushed loadMedia promise for bw=550172
+2021-08-12T22:46:15.601Z engine-sessionLive [1]: Requesting bw=(1650064), Nearest Bandwidth is: 1650064
+2021-08-12T22:46:15.601Z engine-sessionLive [1]: Pushed loadMedia promise for bw=1650064
+2021-08-12T22:46:15.601Z engine-sessionLive [1]: Requesting bw=(2749539), Nearest Bandwidth is: 2749539
+2021-08-12T22:46:15.601Z engine-sessionLive [1]: Pushed loadMedia promise for bw=2749539
+2021-08-12T22:46:15.601Z engine-sessionLive [1]: Requesting bw=(4947980), Nearest Bandwidth is: 4947980
+2021-08-12T22:46:15.602Z engine-sessionLive [1]: Pushed loadMedia promise for bw=4947980
+2021-08-12T22:46:15.602Z engine-sessionLive [1]: Requesting bw=(8247438), Nearest Bandwidth is: 8247438
+2021-08-12T22:46:15.602Z engine-sessionLive [1]: Pushed loadMedia promise for bw=8247438
+2021-08-12T22:46:15.627Z engine-sessionLive [1]: [What To Create?] Creating a Completely New Media Sequence
+2021-08-12T22:46:15.627Z engine-sessionLive [1]: Time to make MEDIA-SEQUENCE number: [9]
+2021-08-12T22:46:15.627Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855858.ts"}
+2021-08-12T22:46:15.627Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:15.628Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855858.ts"}
+2021-08-12T22:46:15.628Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:15.628Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855858.ts"}
+2021-08-12T22:46:15.628Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:15.628Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855858.ts"}
+2021-08-12T22:46:15.630Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:15.630Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855858.ts"}
+2021-08-12T22:46:15.630Z engine-sessionLive [1]: My 'liveSegQueue' looks like this-> 5_bws
+2021-08-12T22:46:15.630Z engine-sessionLive [1]: And each bw has->2,2,2,2,2_segs 
+2021-08-12T22:46:15.630Z engine-sessionLive [1]: LEADER: Uploading these to store, liveSegQueue->{"550172":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855852.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855858.ts"}],"1650064":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855852.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855858.ts"}],"2749539":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855852.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855858.ts"}],"4947980":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855852.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855858.ts"}],"8247438":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855852.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855858.ts"}]}
+2021-08-12T22:46:15.630Z engine-sessionLive [1]: LEADER: Adding data to store!
+2021-08-12T22:46:15.630Z engine-sessionLive [1]: LEADER: I am using segs from Mseq=2016929
+2021-08-12T22:46:15.630Z engine-sessionLive [1]: Got all needed segments from all live-source bandwidths. We are now able to build a Live Manifest
+2021-08-12T22:46:15.630Z engine-sessionLive [1]: SessionLive-Playhead going to ping again after 5970ms
+2021-08-12T22:46:19.475Z engine-sessionLive [1]: ...Loading the selected Live Media Manifest
+2021-08-12T22:46:19.475Z engine-sessionLive [1]: Started Generating the Manifest...
+2021-08-12T22:46:19.475Z engine-sessionLive [1]: Adding a Total of (7) VOD segments to Manifest
+2021-08-12T22:46:19.475Z engine-sessionLive [1]: Appending Segments from Live Source of bw=(2749539). Segment QUEUE is [ 2 ] large
+2021-08-12T22:46:19.475Z engine-sessionLive [1]: ...Manifest Generation Complete!
+2021-08-12T22:46:19.475Z engine-sessionLive [1]: LEADER-> Sending requested manifest to client ["#EXTM3U\n#EXT-X-VERSION:6\n## LEADER\n## Created with Eyevinn Channel Engine library (version=3.0.0-rc.2<cb6d9a07-cce6-4e83-abe1-75693e2d5076>)\n##    https://www.npmjs.com/package/eyevinn-channel-engine\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-TARGETDURATION:8\n#EXT-X-MEDIA-SEQUENCE:9\n#EXT-X-DISCONTINUITY-SEQUENCE:0\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/1000/1000-00009.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/1000/1000-00010.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/1000/1000-00011.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/1000/1000-00012.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/1000/1000-00013.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/1000/1000-00014.ts\n#EXT-X-DISCONTINUITY\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855852.ts\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855858.ts\n"]
+2021-08-12T22:46:21.601Z engine-sessionLive [1]: +-+ liveBws=550172,1650064,2749539,4947980,8247438
+2021-08-12T22:46:21.601Z engine-sessionLive [1]: ...Attempting to load all media manifest URIs in=550172,1650064,2749539,4947980,8247438
+2021-08-12T22:46:21.601Z engine-sessionLive [1]: LEADER: Trying to fetch manifests for all bandwidths
+2021-08-12T22:46:21.601Z engine-sessionLive [1]: Requesting bw=(550172), Nearest Bandwidth is: 550172
+2021-08-12T22:46:21.602Z engine-sessionLive [1]: Pushed loadMedia promise for bw=550172
+2021-08-12T22:46:21.602Z engine-sessionLive [1]: Requesting bw=(1650064), Nearest Bandwidth is: 1650064
+2021-08-12T22:46:21.602Z engine-sessionLive [1]: Pushed loadMedia promise for bw=1650064
+2021-08-12T22:46:21.602Z engine-sessionLive [1]: Requesting bw=(2749539), Nearest Bandwidth is: 2749539
+2021-08-12T22:46:21.602Z engine-sessionLive [1]: Pushed loadMedia promise for bw=2749539
+2021-08-12T22:46:21.602Z engine-sessionLive [1]: Requesting bw=(4947980), Nearest Bandwidth is: 4947980
+2021-08-12T22:46:21.603Z engine-sessionLive [1]: Pushed loadMedia promise for bw=4947980
+2021-08-12T22:46:21.603Z engine-sessionLive [1]: Requesting bw=(8247438), Nearest Bandwidth is: 8247438
+2021-08-12T22:46:21.603Z engine-sessionLive [1]: Pushed loadMedia promise for bw=8247438
+2021-08-12T22:46:21.627Z engine-sessionLive [1]: [What To Create?] Creating a Completely New Media Sequence
+2021-08-12T22:46:21.627Z engine-sessionLive [1]: Time to make MEDIA-SEQUENCE number: [10]
+2021-08-12T22:46:21.627Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855864.ts"}
+2021-08-12T22:46:21.627Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:21.628Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855864.ts"}
+2021-08-12T22:46:21.628Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:21.628Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855864.ts"}
+2021-08-12T22:46:21.629Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:21.630Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855864.ts"}
+2021-08-12T22:46:21.630Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:21.630Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855864.ts"}
+2021-08-12T22:46:21.630Z engine-sessionLive [1]: My 'liveSegQueue' looks like this-> 5_bws
+2021-08-12T22:46:21.630Z engine-sessionLive [1]: And each bw has->3,3,3,3,3_segs 
+2021-08-12T22:46:21.630Z engine-sessionLive [1]: LEADER: Uploading these to store, liveSegQueue->{"550172":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855852.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855858.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855864.ts"}],"1650064":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855852.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855858.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855864.ts"}],"2749539":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855852.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855858.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855864.ts"}],"4947980":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855852.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855858.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855864.ts"}],"8247438":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855852.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855858.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855864.ts"}]}
+2021-08-12T22:46:21.630Z engine-sessionLive [1]: LEADER: Adding data to store!
+2021-08-12T22:46:21.630Z engine-sessionLive [1]: LEADER: I am using segs from Mseq=2016930
+2021-08-12T22:46:21.631Z engine-sessionLive [1]: Got all needed segments from all live-source bandwidths. We are now able to build a Live Manifest
+2021-08-12T22:46:21.631Z engine-sessionLive [1]: SessionLive-Playhead going to ping again after 5970ms
+2021-08-12T22:46:27.601Z engine-sessionLive [1]: +-+ liveBws=550172,1650064,2749539,4947980,8247438
+2021-08-12T22:46:27.601Z engine-sessionLive [1]: ...Attempting to load all media manifest URIs in=550172,1650064,2749539,4947980,8247438
+2021-08-12T22:46:27.602Z engine-sessionLive [1]: LEADER: Trying to fetch manifests for all bandwidths
+2021-08-12T22:46:27.602Z engine-sessionLive [1]: Requesting bw=(550172), Nearest Bandwidth is: 550172
+2021-08-12T22:46:27.602Z engine-sessionLive [1]: Pushed loadMedia promise for bw=550172
+2021-08-12T22:46:27.602Z engine-sessionLive [1]: Requesting bw=(1650064), Nearest Bandwidth is: 1650064
+2021-08-12T22:46:27.602Z engine-sessionLive [1]: Pushed loadMedia promise for bw=1650064
+2021-08-12T22:46:27.602Z engine-sessionLive [1]: Requesting bw=(2749539), Nearest Bandwidth is: 2749539
+2021-08-12T22:46:27.602Z engine-sessionLive [1]: Pushed loadMedia promise for bw=2749539
+2021-08-12T22:46:27.602Z engine-sessionLive [1]: Requesting bw=(4947980), Nearest Bandwidth is: 4947980
+2021-08-12T22:46:27.603Z engine-sessionLive [1]: Pushed loadMedia promise for bw=4947980
+2021-08-12T22:46:27.603Z engine-sessionLive [1]: Requesting bw=(8247438), Nearest Bandwidth is: 8247438
+2021-08-12T22:46:27.603Z engine-sessionLive [1]: Pushed loadMedia promise for bw=8247438
+2021-08-12T22:46:27.625Z engine-sessionLive [1]: [What To Create?] Creating a Completely New Media Sequence
+2021-08-12T22:46:27.625Z engine-sessionLive [1]: Time to make MEDIA-SEQUENCE number: [11]
+2021-08-12T22:46:27.625Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855870.ts"}
+2021-08-12T22:46:27.625Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:27.625Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855870.ts"}
+2021-08-12T22:46:27.625Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:27.625Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855870.ts"}
+2021-08-12T22:46:27.627Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:27.628Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855870.ts"}
+2021-08-12T22:46:27.628Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:27.628Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855870.ts"}
+2021-08-12T22:46:27.628Z engine-sessionLive [1]: My 'liveSegQueue' looks like this-> 5_bws
+2021-08-12T22:46:27.628Z engine-sessionLive [1]: And each bw has->4,4,4,4,4_segs 
+2021-08-12T22:46:27.628Z engine-sessionLive [1]: LEADER: Uploading these to store, liveSegQueue->{"550172":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855852.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855858.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855864.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855870.ts"}],"1650064":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855852.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855858.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855864.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855870.ts"}],"2749539":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855852.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855858.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855864.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855870.ts"}],"4947980":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855852.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855858.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855864.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855870.ts"}],"8247438":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855852.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855858.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855864.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855870.ts"}]}
+2021-08-12T22:46:27.628Z engine-sessionLive [1]: LEADER: Adding data to store!
+2021-08-12T22:46:27.628Z engine-sessionLive [1]: LEADER: I am using segs from Mseq=2016931
+2021-08-12T22:46:27.628Z engine-sessionLive [1]: Got all needed segments from all live-source bandwidths. We are now able to build a Live Manifest
+2021-08-12T22:46:27.628Z engine-sessionLive [1]: SessionLive-Playhead going to ping again after 5973ms
+2021-08-12T22:46:28.978Z engine-sessionLive [1]: ...Loading the selected Live Media Manifest
+2021-08-12T22:46:28.978Z engine-sessionLive [1]: Started Generating the Manifest...
+2021-08-12T22:46:28.978Z engine-sessionLive [1]: Adding a Total of (5) VOD segments to Manifest
+2021-08-12T22:46:28.978Z engine-sessionLive [1]: Appending Segments from Live Source of bw=(1650064). Segment QUEUE is [ 4 ] large
+2021-08-12T22:46:28.978Z engine-sessionLive [1]: ...Manifest Generation Complete!
+2021-08-12T22:46:28.978Z engine-sessionLive [1]: LEADER-> Sending requested manifest to client ["#EXTM3U\n#EXT-X-VERSION:6\n## LEADER\n## Created with Eyevinn Channel Engine library (version=3.0.0-rc.2<cb6d9a07-cce6-4e83-abe1-75693e2d5076>)\n##    https://www.npmjs.com/package/eyevinn-channel-engine\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-TARGETDURATION:8\n#EXT-X-MEDIA-SEQUENCE:11\n#EXT-X-DISCONTINUITY-SEQUENCE:0\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/600/600-00011.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/600/600-00012.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/600/600-00013.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/600/600-00014.ts\n#EXT-X-DISCONTINUITY\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855852.ts\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855858.ts\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855864.ts\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855870.ts\n"]
+2021-08-12T22:46:33.569Z engine-sessionLive [1]: ...Loading the selected Live Media Manifest
+2021-08-12T22:46:33.569Z engine-sessionLive [1]: Started Generating the Manifest...
+2021-08-12T22:46:33.569Z engine-sessionLive [1]: Adding a Total of (5) VOD segments to Manifest
+2021-08-12T22:46:33.569Z engine-sessionLive [1]: Appending Segments from Live Source of bw=(2749539). Segment QUEUE is [ 4 ] large
+2021-08-12T22:46:33.569Z engine-sessionLive [1]: ...Manifest Generation Complete!
+2021-08-12T22:46:33.569Z engine-sessionLive [1]: LEADER-> Sending requested manifest to client ["#EXTM3U\n#EXT-X-VERSION:6\n## LEADER\n## Created with Eyevinn Channel Engine library (version=3.0.0-rc.2<cb6d9a07-cce6-4e83-abe1-75693e2d5076>)\n##    https://www.npmjs.com/package/eyevinn-channel-engine\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-TARGETDURATION:8\n#EXT-X-MEDIA-SEQUENCE:11\n#EXT-X-DISCONTINUITY-SEQUENCE:0\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/1000/1000-00011.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/1000/1000-00012.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/1000/1000-00013.ts\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/1000/1000-00014.ts\n#EXT-X-DISCONTINUITY\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855852.ts\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855858.ts\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855864.ts\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855870.ts\n"]
+2021-08-12T22:46:33.602Z engine-sessionLive [1]: +-+ liveBws=550172,1650064,2749539,4947980,8247438
+2021-08-12T22:46:33.602Z engine-sessionLive [1]: ...Attempting to load all media manifest URIs in=550172,1650064,2749539,4947980,8247438
+2021-08-12T22:46:33.602Z engine-sessionLive [1]: LEADER: Trying to fetch manifests for all bandwidths
+2021-08-12T22:46:33.602Z engine-sessionLive [1]: Requesting bw=(550172), Nearest Bandwidth is: 550172
+2021-08-12T22:46:33.602Z engine-sessionLive [1]: Pushed loadMedia promise for bw=550172
+2021-08-12T22:46:33.602Z engine-sessionLive [1]: Requesting bw=(1650064), Nearest Bandwidth is: 1650064
+2021-08-12T22:46:33.602Z engine-sessionLive [1]: Pushed loadMedia promise for bw=1650064
+2021-08-12T22:46:33.603Z engine-sessionLive [1]: Requesting bw=(2749539), Nearest Bandwidth is: 2749539
+2021-08-12T22:46:33.603Z engine-sessionLive [1]: Pushed loadMedia promise for bw=2749539
+2021-08-12T22:46:33.603Z engine-sessionLive [1]: Requesting bw=(4947980), Nearest Bandwidth is: 4947980
+2021-08-12T22:46:33.603Z engine-sessionLive [1]: Pushed loadMedia promise for bw=4947980
+2021-08-12T22:46:33.603Z engine-sessionLive [1]: Requesting bw=(8247438), Nearest Bandwidth is: 8247438
+2021-08-12T22:46:33.603Z engine-sessionLive [1]: Pushed loadMedia promise for bw=8247438
+2021-08-12T22:46:33.636Z engine-sessionLive [1]: [What To Create?] Creating a Completely New Media Sequence
+2021-08-12T22:46:33.636Z engine-sessionLive [1]: Time to make MEDIA-SEQUENCE number: [12]
+2021-08-12T22:46:33.636Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855876.ts"}
+2021-08-12T22:46:33.636Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:33.636Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855876.ts"}
+2021-08-12T22:46:33.636Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:33.636Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855876.ts"}
+2021-08-12T22:46:33.636Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:33.637Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855876.ts"}
+2021-08-12T22:46:33.637Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:33.637Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855876.ts"}
+2021-08-12T22:46:33.637Z engine-sessionLive [1]: My 'liveSegQueue' looks like this-> 5_bws
+2021-08-12T22:46:33.637Z engine-sessionLive [1]: And each bw has->5,5,5,5,5_segs 
+2021-08-12T22:46:33.637Z engine-sessionLive [1]: LEADER: Uploading these to store, liveSegQueue->{"550172":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855852.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855858.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855864.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855870.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855876.ts"}],"1650064":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855852.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855858.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855864.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855870.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855876.ts"}],"2749539":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855852.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855858.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855864.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855870.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855876.ts"}],"4947980":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855852.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855858.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855864.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855870.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855876.ts"}],"8247438":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855852.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855858.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855864.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855870.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855876.ts"}]}
+2021-08-12T22:46:33.637Z engine-sessionLive [1]: LEADER: Adding data to store!
+2021-08-12T22:46:33.637Z engine-sessionLive [1]: LEADER: I am using segs from Mseq=2016932
+2021-08-12T22:46:33.638Z engine-sessionLive [1]: Got all needed segments from all live-source bandwidths. We are now able to build a Live Manifest
+2021-08-12T22:46:33.638Z engine-sessionLive [1]: SessionLive-Playhead going to ping again after 5964ms
+2021-08-12T22:46:39.603Z engine-sessionLive [1]: +-+ liveBws=550172,1650064,2749539,4947980,8247438
+2021-08-12T22:46:39.603Z engine-sessionLive [1]: ...Attempting to load all media manifest URIs in=550172,1650064,2749539,4947980,8247438
+2021-08-12T22:46:39.604Z engine-sessionLive [1]: LEADER: Trying to fetch manifests for all bandwidths
+2021-08-12T22:46:39.604Z engine-sessionLive [1]: Requesting bw=(550172), Nearest Bandwidth is: 550172
+2021-08-12T22:46:39.604Z engine-sessionLive [1]: Pushed loadMedia promise for bw=550172
+2021-08-12T22:46:39.604Z engine-sessionLive [1]: Requesting bw=(1650064), Nearest Bandwidth is: 1650064
+2021-08-12T22:46:39.604Z engine-sessionLive [1]: Pushed loadMedia promise for bw=1650064
+2021-08-12T22:46:39.604Z engine-sessionLive [1]: Requesting bw=(2749539), Nearest Bandwidth is: 2749539
+2021-08-12T22:46:39.604Z engine-sessionLive [1]: Pushed loadMedia promise for bw=2749539
+2021-08-12T22:46:39.604Z engine-sessionLive [1]: Requesting bw=(4947980), Nearest Bandwidth is: 4947980
+2021-08-12T22:46:39.604Z engine-sessionLive [1]: Pushed loadMedia promise for bw=4947980
+2021-08-12T22:46:39.604Z engine-sessionLive [1]: Requesting bw=(8247438), Nearest Bandwidth is: 8247438
+2021-08-12T22:46:39.604Z engine-sessionLive [1]: Pushed loadMedia promise for bw=8247438
+2021-08-12T22:46:39.625Z engine-sessionLive [1]: [What To Create?] Creating a Completely New Media Sequence
+2021-08-12T22:46:39.625Z engine-sessionLive [1]: Time to make MEDIA-SEQUENCE number: [13]
+2021-08-12T22:46:39.625Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855882.ts"}
+2021-08-12T22:46:39.625Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:39.625Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855882.ts"}
+2021-08-12T22:46:39.630Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:39.630Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855882.ts"}
+2021-08-12T22:46:39.630Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:39.630Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855882.ts"}
+2021-08-12T22:46:39.630Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:39.630Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855882.ts"}
+2021-08-12T22:46:39.630Z engine-sessionLive [1]: My 'liveSegQueue' looks like this-> 5_bws
+2021-08-12T22:46:39.631Z engine-sessionLive [1]: And each bw has->6,6,6,6,6_segs 
+2021-08-12T22:46:39.631Z engine-sessionLive [1]: LEADER: Uploading these to store, liveSegQueue->{"550172":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855852.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855858.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855864.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855870.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855876.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855882.ts"}],"1650064":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855852.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855858.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855864.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855870.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855876.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855882.ts"}],"2749539":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855852.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855858.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855864.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855870.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855876.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855882.ts"}],"4947980":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855852.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855858.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855864.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855870.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855876.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855882.ts"}],"8247438":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855852.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855858.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855864.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855870.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855876.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855882.ts"}]}
+2021-08-12T22:46:39.631Z engine-sessionLive [1]: LEADER: Adding data to store!
+2021-08-12T22:46:39.631Z engine-sessionLive [1]: LEADER: I am using segs from Mseq=2016933
+2021-08-12T22:46:39.631Z engine-sessionLive [1]: Got all needed segments from all live-source bandwidths. We are now able to build a Live Manifest
+2021-08-12T22:46:39.631Z engine-sessionLive [1]: SessionLive-Playhead going to ping again after 5972ms
+2021-08-12T22:46:45.604Z engine-sessionLive [1]: +-+ liveBws=550172,1650064,2749539,4947980,8247438
+2021-08-12T22:46:45.604Z engine-sessionLive [1]: ...Attempting to load all media manifest URIs in=550172,1650064,2749539,4947980,8247438
+2021-08-12T22:46:45.605Z engine-sessionLive [1]: LEADER: Trying to fetch manifests for all bandwidths
+2021-08-12T22:46:45.605Z engine-sessionLive [1]: Requesting bw=(550172), Nearest Bandwidth is: 550172
+2021-08-12T22:46:45.606Z engine-sessionLive [1]: Pushed loadMedia promise for bw=550172
+2021-08-12T22:46:45.606Z engine-sessionLive [1]: Requesting bw=(1650064), Nearest Bandwidth is: 1650064
+2021-08-12T22:46:45.606Z engine-sessionLive [1]: Pushed loadMedia promise for bw=1650064
+2021-08-12T22:46:45.606Z engine-sessionLive [1]: Requesting bw=(2749539), Nearest Bandwidth is: 2749539
+2021-08-12T22:46:45.607Z engine-sessionLive [1]: Pushed loadMedia promise for bw=2749539
+2021-08-12T22:46:45.607Z engine-sessionLive [1]: Requesting bw=(4947980), Nearest Bandwidth is: 4947980
+2021-08-12T22:46:45.607Z engine-sessionLive [1]: Pushed loadMedia promise for bw=4947980
+2021-08-12T22:46:45.607Z engine-sessionLive [1]: Requesting bw=(8247438), Nearest Bandwidth is: 8247438
+2021-08-12T22:46:45.607Z engine-sessionLive [1]: Pushed loadMedia promise for bw=8247438
+2021-08-12T22:46:45.634Z engine-sessionLive [1]: [What To Create?] Creating a Completely New Media Sequence
+2021-08-12T22:46:45.634Z engine-sessionLive [1]: Time to make MEDIA-SEQUENCE number: [14]
+2021-08-12T22:46:45.634Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855888.ts"}
+2021-08-12T22:46:45.634Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:45.634Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855888.ts"}
+2021-08-12T22:46:45.634Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:45.634Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855888.ts"}
+2021-08-12T22:46:45.634Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:45.634Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855888.ts"}
+2021-08-12T22:46:45.635Z engine-sessionLive [1]: [What To Create?] Creating An Identical Media Sequence, but for new Bandwidth!
+2021-08-12T22:46:45.635Z engine-sessionLive [1]: X | PUSHED this segment to the QUEUE:{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855888.ts"}
+2021-08-12T22:46:45.635Z engine-sessionLive [1]: My 'liveSegQueue' looks like this-> 5_bws
+2021-08-12T22:46:45.635Z engine-sessionLive [1]: And each bw has->7,7,7,7,7_segs 
+2021-08-12T22:46:45.635Z engine-sessionLive [1]: LEADER: Uploading these to store, liveSegQueue->{"550172":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855852.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855858.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855864.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855870.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855876.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855882.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_0_20210813_1628855888.ts"}],"1650064":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855852.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855858.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855864.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855870.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855876.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855882.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_1_20210813_1628855888.ts"}],"2749539":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855852.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855858.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855864.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855870.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855876.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855882.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855888.ts"}],"4947980":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855852.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855858.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855864.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855870.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855876.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855882.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_3_20210813_1628855888.ts"}],"8247438":[{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855852.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855858.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855864.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855870.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855876.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855882.ts"},{"duration":6,"uri":"https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_4_20210813_1628855888.ts"}]}
+2021-08-12T22:46:45.635Z engine-sessionLive [1]: LEADER: Adding data to store!
+2021-08-12T22:46:45.636Z engine-sessionLive [1]: LEADER: I am using segs from Mseq=2016934
+2021-08-12T22:46:45.636Z engine-sessionLive [1]: Got all needed segments from all live-source bandwidths. We are now able to build a Live Manifest
+2021-08-12T22:46:45.636Z engine-sessionLive [1]: SessionLive-Playhead going to ping again after 5968ms
+2021-08-12T22:46:46.899Z engine-sessionLive [1]: ...Loading the selected Live Media Manifest
+2021-08-12T22:46:46.899Z engine-sessionLive [1]: Started Generating the Manifest...
+2021-08-12T22:46:46.899Z engine-sessionLive [1]: Adding a Total of (2) VOD segments to Manifest
+2021-08-12T22:46:46.899Z engine-sessionLive [1]: Appending Segments from Live Source of bw=(2749539). Segment QUEUE is [ 7 ] large
+2021-08-12T22:46:46.899Z engine-sessionLive [1]: ...Manifest Generation Complete!
+2021-08-12T22:46:46.899Z engine-sessionLive [1]: LEADER-> Sending requested manifest to client ["#EXTM3U\n#EXT-X-VERSION:6\n## LEADER\n## Created with Eyevinn Channel Engine library (version=3.0.0-rc.2<cb6d9a07-cce6-4e83-abe1-75693e2d5076>)\n##    https://www.npmjs.com/package/eyevinn-channel-engine\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-TARGETDURATION:8\n#EXT-X-MEDIA-SEQUENCE:14\n#EXT-X-DISCONTINUITY-SEQUENCE:0\n#EXTINF:7.500,\nhttps://maitv-vod.lab.eyevinn.technology/tearsofsteel_4k.mov/1000/1000-00014.ts\n#EXT-X-DISCONTINUITY\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855852.ts\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855858.ts\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855864.ts\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855870.ts\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855876.ts\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855882.ts\n#EXTINF:6.000,\nhttps://cph-p2p-msl.akamaized.net/hls/live/2000341/test/segment_2_20210813_1628855888.ts\n"]
