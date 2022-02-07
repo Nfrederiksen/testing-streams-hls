@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>vod2vod</id>
+    <title>VOD2VOD example</title>
+    <updated>2022-12-08T09:25:37.332Z</updated>
+    <entry>
+        <title>TEST_CLIPA_18SEC</title>
+        <id>7070630b-b514-4e66-8033-g9g6139a7284</id>
+        <link>https://lab-live.cdn.eyevinn.technology/ED_V4/master.m3u8</link>
+    </entry>
+    <entry>
+        <title>TEST_CLIPB_18SEC</title>
+        <id>20053pp7-b289-4210-869p-43f355357332</id>
+        <link>https://lab-live.cdn.eyevinn.technology/ED_V4/master.m3u8</link>
+    </entry>
+</feed>
